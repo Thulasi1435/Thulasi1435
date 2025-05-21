@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1>Hi 👋, I'm Vendru Thulasi</h1>
 <p>A passionate full stack developer from India</p>
 <h2>🚀 Languages and Tools I Use</h2>
